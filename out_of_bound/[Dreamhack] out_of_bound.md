@@ -1,4 +1,4 @@
-# [Dreamhack] out_of_bound
+# [DreamHack] out_of_bound
 
 :writing_hand: [h0meb0dy](mailto:h0meb0dysj@gmail.com)
 
