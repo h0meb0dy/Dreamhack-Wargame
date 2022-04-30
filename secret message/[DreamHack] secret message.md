@@ -177,7 +177,7 @@ original_file.close()
 ```
 
 ```
-$ python3 imageviewer.py secretMessage.raw
+$ python3 solve.py; python3 imageviewer.py secretMessage.raw
 ```
 
 ![image](https://user-images.githubusercontent.com/104156058/166117420-132e920c-e9ab-4bf0-85be-2ab1a6da7283.png)
